@@ -1,0 +1,8 @@
+Brand name: Enze
+Language: Vietnamese (Optional: English)
+Products: Local brand T-Shirt & Trousers. (Maybe more in the future).
+
+Requires:
+	- Nice UI (Light + Dark mode)
+	- Responsive
+	- Easy to use
